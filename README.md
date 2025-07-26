@@ -32,3 +32,15 @@
          alt="Metasploit" width="30" height="30" style="margin: 0 8px;" />
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/snake.svg" alt="Snake animation" />
+
+###
