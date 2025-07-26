@@ -67,3 +67,11 @@
 <img src="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<imagen><fuentemedios="(prefiere esquema de color: oscuro)"srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg"><fuentemedios="(prefiere esquema de color: claro)"srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg"><imgalt="Gráfico de contribución de Pacman"src="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/pacman-contribution-graph.svg"></
+    
+    
+    
+imagen>
+
+_generado con [abozanona/gráfico de contribución de pacman](https://abozanona.github.io/pacman-contribution-graph/)_
