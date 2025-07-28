@@ -1,11 +1,5 @@
 <h1 align="center">hey there 👋</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-</div>
-
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p>
@@ -15,6 +9,14 @@
   - 📚 I'm learning about ethical hacking, Wi-Fi auditing, malware evasion, and Linux scripting.<br>
   - ⚡ In my free time, I explore CTFs, custom payload creation, and network protocol analysis.
 </p>
+
+<h3 align="left">🌐 Connect with me</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
