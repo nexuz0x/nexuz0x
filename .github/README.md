@@ -74,25 +74,36 @@
 
 <hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
 
-<!-- Footer typing message -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=System+Breached...+User+Authenticated.;Welcome+to+my+README%2C+intruder." />
-</p>
-
 <hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
 
-<!-- ASCII Footer -->
+<!-- ⚡ Terminal Banner -->
 <pre>
-┌──(nexuz0x㉿root)-[~]
-└─$ whoami
-nexuz0x - cyberpunk dev | pentester | script kiddie++
+┌──(nexuz0x㉿root)-[~/network/backdoors]
+└─$ ./deploy.sh --stealth
+[+] Execution complete.
+[+] Connection to remote host established on port 31337.
 </pre>
 
-<!-- Hidden Flag -->
+<!-- 🔐 Hidden Flag (CTF style) -->
 <details>
   <summary>🕵️ Hidden Flag</summary>
   <br>
   <pre>
-  FLAG{gh0st_shell_access_grant3d_0x01}
+  FLAG{access_granted_nexuz0x_persistence_0x01}
   </pre>
 </details>
+
+<!-- 🧠 Hidden Quote -->
+<details>
+  <summary>💬 Thought of the day</summary>
+  <br>
+  <blockquote>
+    "The quieter you become, the more you are able to hear."
+    <br>― Kali Linux Terminal
+  </blockquote>
+</details>
+
+<!-- Footer typing message -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=System+Breached...+User+Authenticated.;Welcome+to+my+README%2C+intruder." />
+</p>
