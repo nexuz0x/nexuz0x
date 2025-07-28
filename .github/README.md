@@ -72,6 +72,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/pacman-contribution-graph.svg">
 </picture>
 
+<h3>🧰 Toolbox</h3>
+
+<p>
+  <code>nmap</code> • <code>netcat</code> • <code>Burp Suite</code> • <code>Metasploit</code> • <code>Wireshark</code> • <code>Gobuster</code> • <code>sqlmap</code> • <code>aircrack-ng</code>
+</p>
+
 <hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
 
 <!-- 🔐 Hidden Flag (CTF style) -->
