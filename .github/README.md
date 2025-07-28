@@ -2,8 +2,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&vCenter=true&center=true&lines=%24+nexuz0x;cybersecurity+%7C+offensive+security+%7C+automation+%7C+Linux+obsessed" alt="typing intro">
 </h1>
-<img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" height="150" align="right" style="margin-left: 15px;" />
-
 <hr style="border: none; border-top: 1px dashed #00ff41; margin: 20px 0;" />
 
 <h3 align="left"><code>👨‍💻 About Me</code></h3>
