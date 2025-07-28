@@ -1,28 +1,27 @@
 <h1 align="center">hey there 👋</h1>
 
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
 </div>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<p align="left">I'm a self-taught cybersecurity enthusiast from somewhere deep in the network.<br><br>- 🔭 Currently working on personal projects related to offensive security, automation, and reverse shells.<br>- 📚 I'm learning about ethical hacking, Wi-Fi auditing, malware evasion, and Linux scripting. <br>- ⚡ In my free time, I explore CTFs, custom payload creation, and network protocol analysis.</p>
-
-###
+<table>
+  <tr>
+    <td align="left" valign="top">
+      <p>I'm a self-taught cybersecurity enthusiast from somewhere deep in the network.<br><br>
+      - 🔭 Currently working on personal projects related to offensive security, automation, and reverse shells.<br>
+      - 📚 I'm learning about ethical hacking, Wi-Fi auditing, malware evasion, and Linux scripting.<br>
+      - ⚡ In my free time, I explore CTFs, custom payload creation, and network protocol analysis.
+      </p>
+    </td>
+    <td align="center" valign="top">
+      <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">🛠 Language and tools</h3>
 
