@@ -78,3 +78,19 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=System+Breached...+User+Authenticated.;Welcome+to+my+README%2C+intruder." />
 </p>
+
+<hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
+
+<!-- ASCII Footer -->
+<pre>
+[ nexuz0x ~ hacker mode enabled ]
+</pre>
+
+<!-- Hidden Flag -->
+<details>
+  <summary>🕵️ Hidden Flag</summary>
+  <br>
+  <pre>
+  FLAG{gh0st_shell_access_grant3d_0x01}
+  </pre>
+</details>
