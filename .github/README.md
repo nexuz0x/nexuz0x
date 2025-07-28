@@ -95,5 +95,5 @@
 
 <!-- Footer typing message -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=System+Breached...+User+Authenticated.;Welcome+to+my+README%2C+intruder." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile.;Stay+connected%2C+new+projects+coming+soon...">
 </p>
