@@ -19,8 +19,6 @@
   </a>
 </p>
 
-<h3 align="left">🛠 Language and tools</h3>
-
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
