@@ -4,6 +4,7 @@
 </h1>
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" height="150" align="right" style="margin-left: 15px;" />
 
+<img src="https://media.giphy.com/media/l378khQxt68syiWJy/giphy.gif" height="150" align="right" style="margin-left: 15px;" />
 
 <hr style="border: none; border-top: 1px dashed #00ff41; margin: 20px 0;" />
 
