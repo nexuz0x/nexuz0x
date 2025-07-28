@@ -87,7 +87,7 @@
 </ul>
 
 ![OS](https://img.shields.io/badge/OS-Kali_Linux-ff4757?logo=linux&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-Neovim-2ecc71?logo=vim)
+![Editor](https://img.shields.io/badge/Editor-CodeTerminal-2ecc71?logo=vim)
 ![Tools](https://img.shields.io/badge/Tools-nmap%20%7C%20burpsuite%20%7C%20netcat-1abc9c)
 
 <hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
