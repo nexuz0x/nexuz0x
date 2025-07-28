@@ -8,19 +8,13 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 250px;">
-    <p>
-      I'm a self-taught cybersecurity enthusiast from somewhere deep in the network.<br><br>
-      - 🔭 Currently working on personal projects related to offensive security, automation, and reverse shells.<br>
-      - 📚 I'm learning about ethical hacking, Wi-Fi auditing, malware evasion, and Linux scripting.<br>
-      - ⚡ In my free time, I explore CTFs, custom payload creation, and network protocol analysis.
-    </p>
-  </div>
-  <div style="margin-left: 20px;">
-    <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-  </div>
-</div>
+<p>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" align="right" style="margin-left: 15px;" />
+  I'm a self-taught cybersecurity enthusiast from somewhere deep in the network.<br><br>
+  - 🔭 Currently working on personal projects related to offensive security, automation, and reverse shells.<br>
+  - 📚 I'm learning about ethical hacking, Wi-Fi auditing, malware evasion, and Linux scripting.<br>
+  - ⚡ In my free time, I explore CTFs, custom payload creation, and network protocol analysis.
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
