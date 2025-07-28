@@ -83,15 +83,6 @@
   </pre>
 </details>
 
-<details>
-  <summary>🤝 Looking to collaborate?</summary>
-  <br>
-  <pre>
-  FLAG{collab_request_accepted@nexuz0x :: ready_for_deployment}
-  </pre>
-</details>
-
-
 <!-- 🧠 Hidden Quote -->
 <details>
   <summary>💬 Thought of the day</summary>
