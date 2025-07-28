@@ -13,20 +13,9 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/tuusuario" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
   &nbsp;
-  <a href="https://twitter.com/tuusuario" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X (Twitter)" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/tuusuario" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="30" />
-  </a>
-  &nbsp;
-  <a href="nexuz0x@proton.me" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="30" />
+  <a href="mailto:nexuz0x@proton.me" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/protonmail.svg" alt="Email" height="30" width="30" />
   </a>
 </p>
 
