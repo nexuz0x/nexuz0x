@@ -83,7 +83,9 @@
 
 <!-- ASCII Footer -->
 <pre>
-[ nexuz0x ~ hacker mode enabled ]
+┌──(nexuz0x㉿root)-[~]
+└─$ whoami
+nexuz0x - cyberpunk dev | pentester | script kiddie++
 </pre>
 
 <!-- Hidden Flag -->
