@@ -12,11 +12,23 @@
 
 <h3 align="left">🌐 Connect with me</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-</div>
+<p align="left">
+  <a href="https://linkedin.com/in/tuusuario" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/tuusuario" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X (Twitter)" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/tuusuario" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:tuemail@example.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" height="30" width="30" />
+  </a>
+</p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
