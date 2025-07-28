@@ -1,4 +1,4 @@
-<div align="left" style="background-color:#0d0d0d; padding: 25px; border-radius: 10px; border: 1px solid #1a1a1a; color: #e6e6e6;">
+<div align="left" style="background-color:#3d2d3d; padding: 25px; border-radius: 10px; border: 1px solid #1a1a1a; color: #e6e6e6;">
 
 <!-- Hacker Typing Intro -->
 <h1 align="center">
