@@ -1,4 +1,4 @@
-<!-- Terminal-style intro -->
+<!-- Hacker Typing Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&vCenter=true&center=true&lines=%24+nexuz0x;cybersecurity+%7C+offensive+security+%7C+automation+%7C+Linux+obsessed" alt="typing intro">
 </h1>
@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="mailto:nexuz0x@proton.me" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/protonmail.svg" alt="Email" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/protonmail.svg" alt="ProtonMail" height="30" width="30" />
   </a>
 </p>
 
@@ -54,6 +54,7 @@
   <a href="https://www.php.net/" target="_blank" title="PHP">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP" style="filter: grayscale(100%) brightness(120%);" />
   </a>
+
 </div>
 
 <h3 align="left"><code>📊 GitHub Stats</code></h3>
@@ -64,6 +65,7 @@
 
 <br/>
 
+<!-- Pacman graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nexuz0x/nexuz0x/output/pacman-contribution-graph.svg">
@@ -72,6 +74,7 @@
 
 <hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
 
+<!-- Footer typing message -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=System+Breached...+User+Authenticated.;Welcome+to+my+README%2C+intruder." />
 </p>
