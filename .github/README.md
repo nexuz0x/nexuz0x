@@ -19,36 +19,36 @@
   </a>
 </p>
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<h3 align="left"><code>💻 Tech Arsenal</code></h3>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 18px; background-color: #0d1117; padding: 15px; border: 1px solid #30363d; border-radius: 8px;">
 
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" style="border-radius: 8px; transition: transform 0.2s;" />
+  <a href="https://www.java.com/" target="_blank" title="Java" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" style="filter: grayscale(100%) brightness(120%); transition: all 0.2s;" />
   </a>
 
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" style="border-radius: 8px; transition: transform 0.2s;" />
+  <a href="https://www.python.org/" target="_blank" title="Python" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python" style="filter: grayscale(100%) brightness(120%); transition: all 0.2s;" />
   </a>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" style="border-radius: 8px; transition: transform 0.2s;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" style="filter: grayscale(100%) brightness(120%); transition: all 0.2s;" />
   </a>
 
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ" title="IntelliJ IDEA" style="border-radius: 8px; transition: transform 0.2s;" />
+  <a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ IDEA" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="42" alt="IntelliJ" style="filter: grayscale(100%) brightness(120%); transition: all 0.2s;" />
   </a>
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" style="border-radius: 8px; transition: transform 0.2s;" />
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" alt="MySQL" style="filter: grayscale(100%) brightness(120%); transition: all 0.2s;" />
   </a>
 
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" style="border-radius: 8px; transition: transform 0.2s;" />
+  <a href="https://www.linux.org/" target="_blank" title="Linux" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux" style="filter: grayscale(100%) brightness(120%); transition: all 0.2s;" />
   </a>
 
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" style="border-radius: 8px; transition: transform 0.2s;" />
+  <a href="https://www.php.net/" target="_blank" title="PHP" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP" style="filter: grayscale(100%) brightness(120%); transition: all 0.2s;" />
   </a>
 
 </div>
