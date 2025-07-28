@@ -74,20 +74,12 @@
 
 <hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
 
-<!-- ⚡ Terminal Banner -->
-<pre>
-┌──(nexuz0x㉿root)-[~/network/backdoors]
-└─$ ./deploy.sh --stealth
-[+] Execution complete.
-[+] Connection to remote host established on port 31337.
-</pre>
-
 <!-- 🔐 Hidden Flag (CTF style) -->
 <details>
   <summary>🕵️ Hidden Flag</summary>
   <br>
   <pre>
-  FLAG{access_granted_nexuz0x_persistence_0x01}
+  FLAG{thank_you_for_visiting_my_repo_0x01}
   </pre>
 </details>
 
