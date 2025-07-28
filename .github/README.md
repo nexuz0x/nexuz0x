@@ -1,3 +1,5 @@
+<div align="left" style="background-color:#0d0d0d; padding: 25px; border-radius: 10px; border: 1px solid #1a1a1a; color: #e6e6e6;">
+
 <!-- Hacker Typing Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF41&vCenter=true&center=true&lines=%24+nexuz0x;cybersecurity+%7C+offensive+security+%7C+automation+%7C+Linux+obsessed" alt="typing intro">
@@ -115,3 +117,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile.;Stay+connected%2C+new+projects+coming+soon...">
 </p>
+</div>
