@@ -78,6 +78,18 @@
   <code>nmap</code> • <code>netcat</code> • <code>Burp Suite</code> • <code>Metasploit</code> • <code>Wireshark</code> • <code>Gobuster</code> • <code>sqlmap</code> • <code>aircrack-ng</code>
 </p>
 
+<h3>🧪 Currently Building</h3>
+
+<ul>
+  <li>🔧 Python-based reverse shell toolkit</li>
+  <li>💉 Custom XSS payload encoder</li>
+  <li>🌐 Recon automation script using Shodan API</li>
+</ul>
+
+![OS](https://img.shields.io/badge/OS-Kali_Linux-ff4757?logo=linux&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-Neovim-2ecc71?logo=vim)
+![Tools](https://img.shields.io/badge/Tools-nmap%20%7C%20burpsuite%20%7C%20netcat-1abc9c)
+
 <hr style="border: none; border-top: 1px dashed #00ff41; margin-top: 30px;" />
 
 <!-- 🔐 Hidden Flag (CTF style) -->
