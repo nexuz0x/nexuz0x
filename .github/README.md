@@ -21,39 +21,39 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+<h3 align="left">🛠️ Tech Stack</h3>
 
-<div align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
+
+  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java" style="border-radius: 8px; transition: transform 0.2s;" />
   </a>
-  <img width="12" />
+
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python" style="border-radius: 8px; transition: transform 0.2s;" />
   </a>
-  <img width="12" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  </a>
-</div>
 
-###
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript" style="border-radius: 8px; transition: transform 0.2s;" />
+  </a>
+
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" alt="IntelliJ" title="IntelliJ IDEA" style="border-radius: 8px; transition: transform 0.2s;" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" title="MySQL" style="border-radius: 8px; transition: transform 0.2s;" />
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" title="Linux" style="border-radius: 8px; transition: transform 0.2s;" />
+  </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" title="PHP" style="border-radius: 8px; transition: transform 0.2s;" />
+  </a>
+
+</div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
