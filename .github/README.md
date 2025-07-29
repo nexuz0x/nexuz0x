@@ -110,7 +110,6 @@
   <br>
   <blockquote>
     "The quieter you become, the more you are able to hear."
-    <br>― Kali Linux Terminal
   </blockquote>
 </details>
 
